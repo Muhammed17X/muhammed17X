@@ -32,15 +32,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed17X&layout=compact&theme=tokyonight)
 
 ---
-
-### 🎧 Currently Vibing To
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-
----
-
-### 😄 Fun Fact
-
-> Banging your head against a wall for one hour burns **150 calories**. (Not recommended 😅)
-
 </div>
