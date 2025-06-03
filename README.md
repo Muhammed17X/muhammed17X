@@ -1,15 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="70%"/>  
-
----
-
 ### 👋 Hey there! I'm **Mohammad17X**
 🎓 I'm a computer programming student.  
 💻 I love coding and learning new technologies.  
 🐧 I enjoy exploring the GNU/Linux world.  
 📬 Feel free to reach out to me on **[Telegram](https://t.me/spxd007)**  
-
 ---
 
 ### 🛠️ Technologies I Use
