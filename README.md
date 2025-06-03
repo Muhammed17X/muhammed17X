@@ -4,7 +4,7 @@
 
 ---
 
-### <h1>👋 Hey there! I'm **Muhammed17X** <h1/> 
+### 👋 Hey there! I'm **Muhammed17X**
 🎓 I'm a computer programming student.  
 💻 I love coding and learning new technologies.  
 🐧 I enjoy exploring the GNU/Linux world.  
